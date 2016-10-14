@@ -1,0 +1,88 @@
+* {
+  margin:0;
+  padding:0;
+  border:0;
+}
+
+body {
+  background:rgb(255,255,255);
+  color:rgb(0,0,0);
+  font:11px Verdana, Arial, Helvetica, sans-serif;
+}
+
+div#running {
+  position:absolute;
+  left:40px;
+  top:40px;
+  width:120px;
+  height:243px;
+  background:url(images/container.gif) 0 0 no-repeat;
+}
+
+div#running h4 {
+  position:absolute;
+  left:0px;
+  top:0px;
+  width:63px;
+  height:25px;
+  text-indent:-9999px;
+  text-decoration:none;
+  overflow:hidden;
+}
+
+div#running li {
+  display:inline;
+}
+
+div#running li a {
+  position:absolute;
+  left:10px;
+  width:100px;
+  height:28px;
+  color:rgb(0,0,0);
+  text-indent:-9999px;
+  text-decoration:none;
+  overflow:hidden;
+}
+
+ul.blue a {
+  background-image:url(images/blue.gif);
+}
+
+ul.fuchsia a {
+  background-image:url(images/fuchsia.gif);
+}
+
+ul.green a {
+  background-image:url(images/green.gif);
+}
+
+a#adidas {
+  top:30px;
+  background-position:0 0;
+}
+
+a#asics {
+  top:65px;
+  background-position:0 -27px;
+}
+
+a#brooks {
+  top:100px;
+  background-position:0 -54px;
+}
+
+a#newBalance {
+  top:135px;
+  background-position:0 -81px;
+}
+
+a#nike {
+  top:170px;
+  background-position:0 -108px;
+}
+
+a#saucony {
+  top:205px;
+  background-position:0 -135px;
+}

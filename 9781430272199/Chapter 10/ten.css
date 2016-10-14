@@ -1,0 +1,162 @@
+* {
+  margin:0;
+  padding:0;
+  border:0;
+}
+
+body {
+  background:rgb(255,255,255);
+  color:rgb(0,0,0);
+  font:11px Verdana, Arial, Helvetica, sans-serif;
+}
+
+div#running {
+  position:absolute;
+  left:40px;
+  top:40px;
+  width:120px;
+  height:243px;
+  background:url(images/container.gif) 0 0 no-repeat;
+}
+
+div#running h4 {
+  position:absolute;
+  left:0px;
+  top:0px;
+  width:63px;
+  height:25px;
+  text-indent:-9999px;
+  text-decoration:none;
+  overflow:hidden;
+}
+
+div#running li {
+  display:inline;
+}
+
+div#running li a {
+  position:absolute;
+  left:10px;
+  width:100px;
+  height:28px;
+  color:rgb(0,0,0);
+  text-indent:-9999px;
+  text-decoration:none;
+  overflow:hidden;
+}
+
+a#adidas {
+  top:30px;
+  background-position:0 0;
+}
+
+a#asics {
+  top:65px;
+  background-position:0 -27px;
+}
+
+a#brooks {
+  top:100px;
+  background-position:0 -54px;
+}
+
+a#newBalance {
+  top:135px;
+  background-position:0 -81px;
+}
+
+a#nike {
+  top:170px;
+  background-position:0 -108px;
+}
+
+a#saucony {
+  top:205px;
+  background-position:0 -135px;
+}
+
+div.scroller {
+  position:absolute;
+  left:570px;
+  width:180px;
+  height:180px;
+  color:rgb(0,0,0);
+}
+
+div#s1 {
+  top:40px;
+  background:url(images/s1.gif) 0 0 no-repeat;
+}
+
+div#s2 {
+  top:40px;
+  background:url(images/s2.gif) 0 0 no-repeat;
+}
+
+div#s3 {
+  top:290px;
+  background:url(images/s3.gif) 0 0 no-repeat;
+}
+
+div#s4 {
+  top:540px;
+  background:url(images/s4.gif) 0 0 no-repeat;
+}
+
+div#s5 {
+  top:790px;
+  background:url(images/s5.gif) 0 0 no-repeat;
+}
+
+div#s6 {
+  top:1040px;
+  background:url(images/s6.gif) 0 0 no-repeat;
+}
+
+div.wrapper {
+  position:absolute;
+  left:1px;
+  top:1px;
+  width:178px;
+  height:178px;
+  overflow:hidden;
+}
+
+ul.slide {
+  position:absolute;
+  left:0;
+  top:0;
+  width:1602px;
+}
+
+ul.slide li {
+  list-style:none;
+  float:left;
+}
+
+ul.slide img {
+  display:block;
+  padding:29px 9px 9px 9px;
+}
+
+div.arrow {
+  position:absolute;
+  top:187px;
+  display:block;
+  width:28px;
+  height:28px;
+  text-indent:-9999px;
+  text-decoration:none;
+  overflow:hidden;
+}
+
+div.left {
+  left:57px;
+  background-position:0 -164px;
+}
+
+div.right {
+  left:95px;
+  background-position:0 -191px;
+}
+

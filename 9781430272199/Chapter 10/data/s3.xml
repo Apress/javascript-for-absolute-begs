@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8"?>
+<gallery>
+  <shoe>
+    <href>ten.html</href>
+    <src>images/lunaracer.jpg</src>
+    <alt>Nike LunaRacer</alt>
+  </shoe>
+  <shoe>
+    <href>ten.html</href>
+    <src>images/glide_bos.jpg</src>
+    <alt>Nike Lunar Glide, Boston</alt>
+  </shoe>
+  <shoe>
+    <href>ten.html</href>
+    <src>images/glide_nyc.jpg</src>
+    <alt>Nike Lunar Gllide, NYC</alt>
+  </shoe>
+  <shoe>
+    <href>ten.html</href>
+    <src>images/mariah.jpg</src>
+    <alt>Nike Mariah</alt>
+  </shoe>
+  <shoe>
+    <href>ten.html</href>
+    <src>images/fly_org.jpg</src>
+    <alt>Nike Lunar Fly, Orange</alt>
+  </shoe>
+  <shoe>
+    <href>ten.html</href>
+    <src>images/fly_blk.jpg</src>
+    <alt>Nike Lunar Fly, Black</alt>
+  </shoe>
+  <shoe>
+    <href>ten.html</href>
+    <src>images/elite.jpg</src>
+    <alt>Nike Lunar Elite</alt>
+  </shoe>
+  <shoe>
+    <href>ten.html</href>
+    <src>images/vomero.jpg</src>
+    <alt>Nike Zoom Vomero</alt>
+  </shoe>
+  <shoe>
+    <href>ten.html</href>
+    <src>images/max.jpg</src>
+    <alt>Nike Air Max</alt>
+  </shoe>
+</gallery>
